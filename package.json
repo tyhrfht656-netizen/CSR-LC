@@ -1,0 +1,20 @@
+{
+  "name": "md5lc-api",
+  "version": "1.0.0",
+  "description": "LC79 · UPIS — Unified Pattern Intelligence System API",
+  "main": "MD5lc.js",
+  "scripts": {
+    "start": "node MD5lc.js",
+    "dev": "node MD5lc.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.21.1"
+  },
+  "keywords": ["lc79", "upis", "md5", "tai-xiu", "prediction"],
+  "author": "@DENIUS09",
+  "license": "MIT"
+}
